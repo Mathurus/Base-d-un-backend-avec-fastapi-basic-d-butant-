@@ -5,3 +5,9 @@
 ```
 pip install uvicorn fastapi
 ```
+
+#Lancement 
+
+```
+python3 script.py
+```
